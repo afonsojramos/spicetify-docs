@@ -28,10 +28,21 @@ const sidebars = {
       items: [
         'advanced-usage/installation',
         'advanced-usage/uninstallation',
-        'advanced-usage/command-line-interface',
-        'advanced-usage/themes',
-        'advanced-usage/extensions',
-        'advanced-usage/custom-apps',
+        'advanced-usage/command-line-interface'
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Addons',
+      link: {
+        type: 'generated-index',
+        description: "Here is a collection of official and popular addons, and what they do.",
+        slug: '/addons',
+      },
+      items: [
+        'addons/themes',
+        'addons/extensions',
+        'addons/custom-apps',
       ],
     },
     {

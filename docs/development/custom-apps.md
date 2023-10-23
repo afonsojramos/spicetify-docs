@@ -5,7 +5,7 @@ description: 🔧 Creating Custom Apps.
 
 ## How to start
 
-- Make a new folder for your custom app in your [CustomApps folder](../advanced-usage/custom-apps). You'll install it like any other custom app.
+- Make a new folder for your custom app in your [CustomApps folder](../addons/custom-apps). You'll install it like any other custom app.
 - Create an `index.js` and a `manifest.json` inside that folder.
 - The `index.js` file is the main file for the custom app.
 - The manifest includes some important information to make the custom app work.

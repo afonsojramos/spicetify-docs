@@ -92,6 +92,10 @@ const config = {
                 to: '/docs/advanced-usage',
               },
               {
+                label: 'Addons',
+                to: '/docs/addons',
+              },
+              {
                 label: 'Development',
                 to: '/docs/development',
               },
