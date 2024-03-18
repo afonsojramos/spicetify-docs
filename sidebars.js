@@ -28,7 +28,7 @@ const sidebars = {
       items: [
         'advanced-usage/installation',
         'advanced-usage/uninstallation',
-        'advanced-usage/command-line-interface',
+        'advanced-usage/command-line',
         'advanced-usage/themes',
         'advanced-usage/extensions',
         'advanced-usage/custom-apps',
