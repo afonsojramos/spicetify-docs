@@ -33,6 +33,20 @@ const sidebars = {
         'advanced-usage/themes',
         'advanced-usage/extensions',
         'advanced-usage/custom-apps',
+        {
+          type: 'category',
+          label: 'Customization',
+          link: {
+            type: 'generated-index',
+            description: 'How to customize Spicetify to fit your needs.',
+            slug: 'advanced-usage/customization',
+          },
+          items: [
+            'advanced-usage/customization/config-file',
+            'advanced-usage/customization/addons',
+            'advanced-usage/customization/marketplace',
+          ],
+        },
       ],
     },
     {
